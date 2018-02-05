@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-wallet-service-polis",
+  "name": "bitcore-wallet-service",
   "description": "A service for Mutisig HD Bitcoin Wallets",
   "author": "BitPay Inc",
   "version": "2.3.0",
@@ -13,7 +13,7 @@
     "BWS"
   ],
   "repository": {
-    "url": "git@github.com:polispay/bitcore-wallet-service-polis.git",
+    "url": "git@github.com:polispay/bitcore-wallet-service.git",
     "type": "git"
   },
   "bugs": {
